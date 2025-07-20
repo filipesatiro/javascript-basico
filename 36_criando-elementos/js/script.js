@@ -11,6 +11,7 @@ console.log(body);
 body.appendChild(novoParagrafo);
 
 //inserir em um container
+
 var container = document.getElementById("container");
 console.log(container);
 
